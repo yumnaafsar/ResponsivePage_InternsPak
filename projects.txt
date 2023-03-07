@@ -1,0 +1,5 @@
+login form: https://jsfiddle.net/f5k4qetz/1/
+
+responsive page: https://jsfiddle.net/dv89zx24/1/
+
+jqyery: https://finalIntern.yumnaafsar.repl.co
